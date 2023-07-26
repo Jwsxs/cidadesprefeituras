@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+
+html {
+    font-family: Montserrat, sans-serif;
+    font-size: 18px;
+
+    background-color:hsl(180, 12%, 71%);
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.cityButton {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: left;
+
+    background-color: white;
+    border-radius: 12px;
+}
+
+.cityButton:hover {
+    text-align: center;
+    
+    background-color: rgb(203, 203, 203);
+}
+
+th, td {
+    padding-bottom: 45px;
+    text-align: left;
+}
+
+.dangerButton {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: left;
+
+    background-color: white;
+    border-radius: 12px;
+}
+
+.dangerButton:hover {
+    background-color: rgb(255, 84, 84);
+}

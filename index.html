@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cidades Prefeituras</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <table id="cityTable">
+        <h1>Cidades</h1>
+    </table>
+
+    <script>
+        // JavaScript code goes here
+        fetch('cidades.txt')
+            .then(response => response.text())
+            .then(data => {
+                const lines = data.split('\n');
+                const table = document.getElementById('cityTable');
+
+                lines.forEach(line => {
+                    const [city, website] = line.split(',');
+                    const row = table.insertRow();
+                    const cityCell = row.insertCell(0);
+                    cityCell.innerHTML = `<a class="cityButton" href="${website.trim()}" target="_blank">${city.trim()}</a>`;
+                });
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
+
+    <p class="dangerButton" id="openAllLinks">Abrir tudo</p>
+    <script>
+        const openAllLinksBtn = document.getElementById('openAllLinks');
+        openAllLinksBtn.addEventListener('click', () => {
+            const cityLinks = document.querySelectorAll('.cityButton');
+            cityLinks.forEach(link => {
+                const url = link.href;
+                window.open(url, '_blank');
+            });
+        });
+    </script>
+</body>
+</html>

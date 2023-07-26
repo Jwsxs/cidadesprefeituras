@@ -1,0 +1,41 @@
+Alfredo Marcondes,http://www.alfredomarcondes.sp.gov.br/publicacoes/1
+Alto Taquari,https://www.altotaquari.mt.gov.br/portal/editais/1
+Alvares Machado,http://alvaresmachado.sp.gov.br/publicacoes/1
+Anaurilandia,http://www.anaurilandia.ms.gov.br/arquivos/licitacoes
+Anhumas,https://www.anhumas.sp.gov.br/publicacoes/1
+Bataguassu,http://45.182.157.6:8079/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes
+Bora,https://www.bora.sp.gov.br/portal/editais/1
+Brasilandia,https://www.brasilandia.ms.gov.br/portal/editais/1
+Caiabu,https://www.caiabu.sp.gov.br/portal/editais/1
+Caiua,https://www.caiua.sp.gov.br/publicacoes/11
+Dracena,https://www.dracena.sp.gov.br/portal/editais/1
+Estrela do Norte,https://estreladonorte.sp.gov.br/licitacao/
+Euclides da Cunha,https://www.euclidesdacunha.ba.gov.br/licitacoes
+Flora Rica,https://www.florarica.sp.gov.br/licitacao
+Iepe,https://scpiiepe.dcfiorilli.com.br:879/comprasedital/
+Indiana,http://www.indiana.sp.gov.br/licitacoes
+Joao Ramalho,https://www.joaoramalho.sp.gov.br/portal/editais/1
+Maraba Paulista,https://www.marabapaulista.sp.gov.br/licitacao
+Martinopolis,http://201.63.114.134:8079/comprasedital/
+Mirante do Paranapanema,https://www.mirantedoparanapanema.sp.gov.br/portal/editais/1
+Nantes,https://www.nantes.sp.gov.br/publicacoes/1
+Narandiba,http://www.narandiba.sp.gov.br/licitacao/
+Parapua,https://www.parapua.sp.gov.br/licitacoes/
+Piquerobi,http://138.118.122.204:5656/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes
+Pirapozinho,https://www.pirapozinho.sp.gov.br/?pag=T0dRPU9HTT1PRFk9T0dVPU9Uaz1PRGc9T0dFPU9UZz1PR1U9T1dVPU9HRT1ZVEE9T1RJPU9XWT1PVEE9WVRNPU9UST0=
+Presidente Bernardes,https://presidentebernardes.sp.gov.br/publicacoes/1
+Presidente Epitacio,https://www.presidenteepitacio.sp.gov.br/portal/editais/1
+Presidente Prudente,https://www.presidenteprudente.sp.gov.br/transparencia/1/contaspublicas/licitacoes/abertas
+Presidente Venceslau,https://www.presidentevenceslau.sp.gov.br/publicacoes-oficiais/editais-licitacoes
+Rancharia,https://www.rancharia.sp.gov.br/portal/editais/1
+Regente Feijo,http://www.regentefeijo.sp.gov.br/licitacoes
+Ribeirao dos Indios,https://www.ribeiraodosindios.sp.gov.br/
+Rio Brilhante,https://transparencia.betha.cloud/#/KLojapoJwJLapEYmhbLUHQ==/consulta/59307
+Rosana,https://www.rosana.sp.gov.br/licitacoes/
+Sandovalina,http://sandovalina.sp.gov.br/licitacao/
+Santa Rita do Pardo,http://45.182.157.10:8079/transparencia/?AcessoIndividual=lnkLicitacoes
+Santo Anastacio,https://www.santoanastacio.sp.gov.br/portal/editais/1
+Santo Expedito,https://www.santoexpedito.sp.gov.br/paginas/portal/licitacoes/exercicios
+Taciba,https://taciba.sp.gov.br/publicacoes/index.php?setorID=13
+Tarabai,http://143.208.124.227:8079/Transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes
+Teodoro Sampaio,https://www.teodorosampaio.sp.gov.br/?pag=T0dRPU9HTT1PRFk9T0dVPU9Uaz1PRGc9T0dFPU9UZz1PR1U9T1dVPU9HRT1ZVEE9T1RJPU9XWT1PVEE9WVRNPU9UST0="}
