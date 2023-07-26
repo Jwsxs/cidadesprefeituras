@@ -38,4 +38,5 @@ Santo Anastacio,https://www.santoanastacio.sp.gov.br/portal/editais/1
 Santo Expedito,https://www.santoexpedito.sp.gov.br/paginas/portal/licitacoes/exercicios
 Taciba,https://taciba.sp.gov.br/publicacoes/index.php?setorID=13
 Tarabai,http://143.208.124.227:8079/Transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes
-Teodoro Sampaio,https://www.teodorosampaio.sp.gov.br/?pag=T0dRPU9HTT1PRFk9T0dVPU9Uaz1PRGc9T0dFPU9UZz1PR1U9T1dVPU9HRT1ZVEE9T1RJPU9XWT1PVEE9WVRNPU9UST0="}
+Teodoro Sampaio,https://www.teodorosampaio.sp.gov.br/?pag=T0dRPU9HTT1PRFk9T0dVPU9Uaz1PRGc9T0dFPU9UZz1PR1U9T1dVPU9HRT1ZVEE9T1RJPU9XWT1PVEE9WVRNPU9UST0="
+BEC,https://www.bec.sp.gov.br/fornecedor_ui/LoginFornecedor.aspx?chave=
