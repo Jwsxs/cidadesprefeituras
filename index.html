@@ -28,8 +28,12 @@
             .catch(error => console.error('Error:', error));
     </script>
 
-    <p class="dangerButton" id="openAllLinks">Abrir tudo</p>
-    <script>
+    
+    <div class="hover-text">
+        <p class="dangerButton" id="openAllLinks">Abrir tudo</p>
+      </div>
+
+      <script>
         const openAllLinksBtn = document.getElementById('openAllLinks');
         openAllLinksBtn.addEventListener('click', () => {
             const cityLinks = document.querySelectorAll('.cityButton');
