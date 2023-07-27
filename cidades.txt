@@ -3,7 +3,7 @@ Alto Taquari,https://www.altotaquari.mt.gov.br/portal/editais/1
 Alvares Machado,http://alvaresmachado.sp.gov.br/publicacoes/1
 Anaurilandia,http://www.anaurilandia.ms.gov.br/arquivos/licitacoes
 Anhumas,https://www.anhumas.sp.gov.br/publicacoes/1
-Bataguassu,http://45.182.157.6:8079/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes
+Bataguassu,https://www.bataguassu.ms.gov.br
 Bora,https://www.bora.sp.gov.br/portal/editais/1
 Brasilandia,https://www.brasilandia.ms.gov.br/portal/editais/1
 Caiabu,https://www.caiabu.sp.gov.br/portal/editais/1
