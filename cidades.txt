@@ -20,6 +20,7 @@ Martinopolis,http://201.63.114.134:8079/comprasedital/
 Mirante do Paranapanema,https://www.mirantedoparanapanema.sp.gov.br/portal/editais/1
 Nantes,https://www.nantes.sp.gov.br/publicacoes/1
 Narandiba,http://www.narandiba.sp.gov.br/licitacao/
+Osvaldo Cruz,https://www.osvaldocruz.sp.gov.br
 Parapua,https://www.parapua.sp.gov.br/licitacoes/
 Piquerobi,http://138.118.122.204:5656/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes
 Pirapozinho,https://www.pirapozinho.sp.gov.br/?pag=T0dRPU9HTT1PRFk9T0dVPU9Uaz1PRGc9T0dFPU9UZz1PR1U9T1dVPU9HRT1ZVEE9T1RJPU9XWT1PVEE9WVRNPU9UST0=
