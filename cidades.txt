@@ -34,6 +34,7 @@ Ribeirao dos Indios,https://www.ribeiraodosindios.sp.gov.br/
 Rio Brilhante,https://transparencia.betha.cloud/#/KLojapoJwJLapEYmhbLUHQ==/consulta/59307
 Rosana,https://www.rosana.sp.gov.br/licitacoes/
 Sandovalina,http://sandovalina.sp.gov.br/licitacao/
+awdwddw,http://sandovalina.sp.gov.br/licitacao/
 Santa Rita do Pardo,http://45.182.157.10:8079/transparencia/?AcessoIndividual=lnkLicitacoes
 Santo Anastacio,https://www.santoanastacio.sp.gov.br/portal/editais/1
 Santo Expedito,https://www.santoexpedito.sp.gov.br/paginas/portal/licitacoes/exercicios
