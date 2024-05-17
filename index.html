@@ -21,7 +21,7 @@
                     const [city, website] = line.split(',');
                     const row = table.insertRow();
                     const cityCell = row.insertCell(0);
-                    cityCell.innerHTML = `<a class="cityButton" href="${website.trim()}" target="_blank">${city.trim()}</a>`;
+                    cityCell.innerHTML = `<a class="cityButton" href="${website.trim()}" target="_blank">${city.trim()}</a>`; //aa
                 });
             })
             .catch(error => console.error('Error:', error));
