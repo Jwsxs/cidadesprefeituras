@@ -15,7 +15,7 @@ Flora Rica,https://www.florarica.sp.gov.br/licitacao
 Iepe,https://scpiiepe.dcfiorilli.com.br:879/comprasedital/
 Indiana,http://www.indiana.sp.gov.br/licitacoes
 Joao Ramalho,https://www.joaoramalho.sp.gov.br/portal/editais/1
-Lucélia, https://www.lucelia.sp.gov.br/licitacao
+Lucélia,https://www.lucelia.sp.gov.br/licitacao
 Maraba Paulista,https://www.marabapaulista.sp.gov.br/licitacao
 Martinopolis,http://201.63.114.134:8079/comprasedital/
 Mirante do Paranapanema,https://www.mirantedoparanapanema.sp.gov.br/portal/editais/1
