@@ -37,7 +37,7 @@ Sandovalina,http://sandovalina.sp.gov.br/licitacao/
 Santa Rita do Pardo,http://45.182.157.10:8079/transparencia/?AcessoIndividual=lnkLicitacoes
 Santo Anastacio,https://www.santoanastacio.sp.gov.br/portal/editais/1
 Santo Expedito,https://www.santoexpedito.sp.gov.br/paginas/portal/licitacoes/exercicios
-Taciba,https://taciba.sp.gov.br/publicacoes/index.php?setorID=13
+Taciba,https://portal.cr2.co/licitacoes_contratos/licitações-contratos-convênios-transferências-voluntárias-e-obras-1533?entidade=taciba&modulo=Licitações
 Tarabai,http://143.208.124.227:8079/Transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes
 Teodoro Sampaio,https://www.teodorosampaio.sp.gov.br/?pag=T0dRPU9HTT1PRFk9T0dVPU9Uaz1PRGc9T0dFPU9UZz1PR1U9T1dVPU9HRT1ZVEE9T1RJPU9XWT1PVEE9WVRNPU9UST0="
 BEC,https://www.bec.sp.gov.br/fornecedor_ui/LoginFornecedor.aspx?chave=
