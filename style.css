@@ -27,8 +27,9 @@ h1 {
 }
 
 .button-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  display: flex;
+  flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
+  justify-content: center; /* Alinha os itens no centro horizontalmente */
   gap: 20px;
   padding: 20px;
   max-width: 800px;
@@ -38,11 +39,11 @@ h1 {
 .button {
   text-decoration: none;
   color: rgb(0, 0, 0);
-  width: 100%;
+  width: 150px; /* Largura fixa para cada botão */
   height: 150px;
   display: flex;
   align-items: center;
-  text-align: center;
+  justify-content: center; /* Alinha o texto verticalmente */
   background-color: white;
   border-radius: 12px;
 }
