@@ -72,6 +72,7 @@ h1 {
 
 .dangerButton:hover {
   background-color: rgb(255, 84, 84);
+  text-align: center;
   color: white;
 }
 
