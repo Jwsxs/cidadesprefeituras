@@ -1,0 +1,47 @@
+document.addEventListener('DOMContentLoaded', () => {
+    fetch('cidades.txt')
+        .then(response => response.text())
+        .then(data => {
+            const lines = data.split('\n').filter(line => line.trim() !== '');
+            const container = document.getElementById('cityContainer');
+
+            if (lines.length === 0) {
+                container.innerHTML = '<p>Nenhum dado disponível.</p>';
+            } else {
+                lines.forEach(line => {
+                    const [city, website] = line.split(',');
+                    if (city && website) {
+                        const trimmedCity = city.trim();
+                        const trimmedWebsite = website.trim();
+                        const link = document.createElement('a');
+                        link.className = 'button cityButton';
+                        link.href = trimmedWebsite;
+                        link.target = '_blank';
+                        link.rel = "noopener noreferrer";
+                        link.textContent = trimmedCity;
+                        link.setAttribute('aria-label', `Website da prefeitura de ${trimmedCity}`);
+                        container.appendChild(link);
+                    }
+                });
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            const container = document.getElementById('cityContainer');
+            container.innerHTML = '<p>Erro ao carregar os dados. Por favor, tente novamente mais tarde.</p>';
+        });
+
+    const openAllLinksBtn = document.getElementById('openAllLinks');
+    openAllLinksBtn.addEventListener('click', () => {
+        const cityLinks = document.querySelectorAll('.cityButton');
+        cityLinks.forEach(link => {
+            const url = link.href;
+            // Lidando com erros ao abrir os links
+            try {
+                window.open(url, '_blank');
+            } catch (error) {
+                console.error('Erro ao abrir o link:', error);
+            }
+        });
+    });
+});
