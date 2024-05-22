@@ -12,7 +12,7 @@ h1 {
   border-radius: 12px;
 }
 
-.cityButton {
+.button {
   text-decoration: none;
   color: rgb(0, 0, 0);
   padding: 20px;
@@ -26,20 +26,11 @@ h1 {
   background-color: rgb(203, 203, 203);
 }
 
+.dangerButton:hover {
+  background-color: rgb(255, 84, 84);
+}
+
 th, td {
   padding-bottom: 45px;
   text-align: left;
-}
-
-.dangerButton {
-  text-decoration: none;
-  color: rgb(0, 0, 0);
-  padding: 20px;
-  text-align: left;
-  background-color: white;
-  border-radius: 12px;
-}
-
-.dangerButton:hover {
-  background-color: rgb(255, 84, 84);
 }
