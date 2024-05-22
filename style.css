@@ -6,14 +6,19 @@ html {
   background-color: hsl(180, 12%, 71%);
   margin: 0;
   padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0;
-  padding: 0;
 }
 
 h1 {
@@ -28,26 +33,26 @@ h1 {
 
 .button-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 20px;
   padding: 20px;
   width: calc(100% - 40px); /* Ensure some padding from edges */
   max-width: 600px;
   box-sizing: border-box;
+  justify-items: center;
 }
 
 .button {
   text-decoration: none;
   color: rgb(0, 0, 0);
-  padding: 20px;
-  text-align: center;
-  background-color: white;
-  border-radius: 12px;
-  box-sizing: border-box;
-  height: 150px; /* Ensuring a square shape */
+  width: 150px;
+  height: 150px;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: white;
+  border-radius: 12px;
+  box-sizing: border-box;
 }
 
 .cityButton:hover {
