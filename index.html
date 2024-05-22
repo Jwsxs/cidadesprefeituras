@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Cidades</h1>
-    <div id="cityContainer" class="button-container"></div>
+    <div class="button-container" id="cityContainer"></div>
 
     <div class="hover-text">
         <p class="dangerButton" id="openAllLinks">Abrir tudo</p>
@@ -29,14 +29,17 @@
                             if (city && website) {
                                 const trimmedCity = city.trim();
                                 const trimmedWebsite = website.trim();
+                                const buttonContainer = document.createElement('div');
+                                buttonContainer.className = 'button';
                                 const link = document.createElement('a');
-                                link.className = 'button cityButton';
+                                link.className = 'cityButton';
                                 link.href = trimmedWebsite;
                                 link.target = '_blank';
                                 link.rel = "noopener noreferrer";
                                 link.textContent = trimmedCity;
                                 link.setAttribute('aria-label', `Website da prefeitura de ${trimmedCity}`);
-                                container.appendChild(link);
+                                buttonContainer.appendChild(link);
+                                container.appendChild(buttonContainer);
                             }
                         });
                     }
