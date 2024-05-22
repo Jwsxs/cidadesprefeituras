@@ -27,10 +27,15 @@
                     link.href = website.trim();
                     link.target = '_blank';
                     link.textContent = city.trim();
+                    link.setAttribute('aria-label', `Website da prefeitura de ${city.trim()}`);
                     container.appendChild(link);
                 });
             })
-            .catch(error => console.error('Error:', error));
+            .catch(error => {
+                console.error('Error:', error);
+                const container = document.getElementById('cityContainer');
+                container.innerHTML = '<p>Erro ao carregar os dados. Por favor, tente novamente mais tarde.</p>';
+            });
     </script>
 
     <script>
