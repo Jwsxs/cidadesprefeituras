@@ -13,14 +13,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (city && website) {
                         const trimmedCity = city.trim();
                         const trimmedWebsite = website.trim();
-                        const link = document.createElement('a');
-                        link.className = 'button cityButton';
-                        link.href = trimmedWebsite;
-                        link.target = '_blank';
-                        link.rel = "noopener noreferrer";
-                        link.textContent = trimmedCity;
-                        link.setAttribute('aria-label', `Website da prefeitura de ${trimmedCity}`);
-                        container.appendChild(link);
+                        const button = document.createElement('button');
+                        button.className = 'button cityButton';
+                        button.textContent = trimmedCity;
+                        button.setAttribute('aria-label', `Website da prefeitura de ${trimmedCity}`);
+                        button.addEventListener('click', () => {
+                            window.open(trimmedWebsite, '_blank');
+                        });
+                        container.appendChild(button);
                     }
                 });
             }
@@ -30,18 +30,4 @@ document.addEventListener('DOMContentLoaded', () => {
             const container = document.getElementById('cityContainer');
             container.innerHTML = '<p>Erro ao carregar os dados. Por favor, tente novamente mais tarde.</p>';
         });
-
-    const openAllLinksBtn = document.getElementById('openAllLinks');
-    openAllLinksBtn.addEventListener('click', () => {
-        const cityLinks = document.querySelectorAll('.cityButton');
-        cityLinks.forEach(link => {
-            const url = link.href;
-            // Lidando com erros ao abrir os links
-            try {
-                window.open(url, '_blank');
-            } catch (error) {
-                console.error('Erro ao abrir o link:', error);
-            }
-        });
-    });
 });
