@@ -21,19 +21,25 @@
                     const lines = data.split('\n').filter(line => line.trim() !== '');
                     const container = document.getElementById('cityContainer');
 
-                    lines.forEach(line => {
-                        const [city, website] = line.split(',');
-                        if (city && website) {
-                            const link = document.createElement('a');
-                            link.className = 'button cityButton';
-                            link.href = website.trim();
-                            link.target = '_blank';
-                            link.rel = "noopener noreferrer";
-                            link.textContent = city.trim();
-                            link.setAttribute('aria-label', `Website da prefeitura de ${city.trim()}`);
-                            container.appendChild(link);
-                        }
-                    });
+                    if (lines.length === 0) {
+                        container.innerHTML = '<p>Nenhum dado disponível.</p>';
+                    } else {
+                        lines.forEach(line => {
+                            const [city, website] = line.split(',');
+                            if (city && website) {
+                                const trimmedCity = city.trim();
+                                const trimmedWebsite = website.trim();
+                                const link = document.createElement('a');
+                                link.className = 'button cityButton';
+                                link.href = trimmedWebsite;
+                                link.target = '_blank';
+                                link.rel = "noopener noreferrer";
+                                link.textContent = trimmedCity;
+                                link.setAttribute('aria-label', `Website da prefeitura de ${trimmedCity}`);
+                                container.appendChild(link);
+                            }
+                        });
+                    }
                 })
                 .catch(error => {
                     console.error('Error:', error);
@@ -46,7 +52,12 @@
                 const cityLinks = document.querySelectorAll('.cityButton');
                 cityLinks.forEach(link => {
                     const url = link.href;
-                    window.open(url, '_blank');
+                    // Lidando com erros ao abrir os links
+                    try {
+                        window.open(url, '_blank');
+                    } catch (error) {
+                        console.error('Erro ao abrir o link:', error);
+                    }
                 });
             });
         });
