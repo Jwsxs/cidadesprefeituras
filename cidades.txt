@@ -41,4 +41,4 @@ Santo Expedito,https://www.santoexpedito.sp.gov.br/paginas/portal/licitacoes/exe
 Taciba,https://portal.cr2.co/licitacoes_contratos/licitações-contratos-convênios-transferências-voluntárias-e-obras-1533?entidade=taciba&modulo=Licitações
 Tarabai,http://143.208.124.227:8079/Transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes
 Teodoro Sampaio,https://www.teodorosampaio.sp.gov.br/?pag=T0dRPU9HTT1PRFk9T0dVPU9Uaz1PRGc9T0dFPU9UZz1PR1U9T1dVPU9HRT1ZVEE9T1RJPU9XWT1PVEE9WVRNPU9UST0="
-BEC,https://www.bec.sp.gov.br/fornecedor_ui/LoginFornecedor.aspx?chave=
+Portal de Compras,https://app.powerbi.com/view?r=eyJrIjoiYWI0ZmIzOTQtZTdhNi00N2VjLTkzOWMtYzVjMTM5ZTllOWI4IiwidCI6IjNhNzhiMGNkLTdjOGUtNDkyOS04M2Q1LTE5MGE2Y2MwMTM2NSJ9&pageName=2230f698cc5cb6b0331e
