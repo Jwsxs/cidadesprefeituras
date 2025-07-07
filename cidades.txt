@@ -3,7 +3,7 @@ Alto Taquari,https://www.altotaquari.mt.gov.br/portal/editais/1
 Alvares Machado,http://alvaresmachado.sp.gov.br/publicacoes/1
 Anaurilandia,http://www.anaurilandia.ms.gov.br/arquivos/licitacoes
 Anhumas,https://www.anhumas.sp.gov.br/publicacoes/1
-Bataguassu,https://www.bataguassu.ms.gov.br
+Bataguassu,http://45.182.157.6:9042/transparencia/?AcessoIndividual=lnkLicitacoes
 Bora,https://www.bora.sp.gov.br/portal/editais/1
 Brasilandia,https://www.brasilandia.ms.gov.br/portal/editais/1
 Caiabu,https://www.caiabu.sp.gov.br/portal/editais/1
@@ -12,20 +12,20 @@ Dracena,https://www.dracena.sp.gov.br/portal/editais/1
 Estrela do Norte,https://estreladonorte.sp.gov.br/licitacao/
 Euclides da Cunha,https://www.euclidesdacunha.ba.gov.br/licitacoes
 Flora Rica,https://www.florarica.sp.gov.br/licitacao
-Iepe,https://scpiiepe.dcfiorilli.com.br:879/comprasedital/
+Iepe,https://iepe.sp.gov.br/portal/editais/1
 Indiana,http://www.indiana.sp.gov.br/licitacoes
 Joao Ramalho,https://www.joaoramalho.sp.gov.br/portal/editais/1
 Lucelia,https://www.lucelia.sp.gov.br/licitacao
 Maraba Paulista,https://www.marabapaulista.sp.gov.br/licitacao
-Martinopolis,http://201.63.114.134:8079/comprasedital/
+Martinopolis,http://38.211.3.230:8079/comprasedital/
 Mirante do Paranapanema,https://www.mirantedoparanapanema.sp.gov.br/portal/editais/1
 Nantes,https://www.nantes.sp.gov.br/publicacoes/1
-Narandiba,http://www.narandiba.sp.gov.br/licitacao/
-Osvaldo Cruz,https://www.osvaldocruz.sp.gov.br
-Parapua,https://www.parapua.sp.gov.br/licitacoes/
+Narandiba,https://narandiba.cr2.site/portal-da-transparencia/licitacoes-e-contratos/
+Osvaldo Cruz,https://www.osvaldocruz.wls.com.br/?pag=T0dRPU9HTT1PRFk9T0dVPU9Uaz1PRGc9T0dFPU9UZz1PR1U9T1dVPU9HRT1ZVEE9T1RJPU9XWT1PVEE9WVRNPU9UST1PVEk9T1RRPVlUTT1ZVFE9
+Parapua,https://www.parapua.sp.gov.br/licitacao/
 Piquerobi,http://138.118.122.204:5656/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes
 Pirapozinho,https://www.pirapozinho.sp.gov.br/?pag=T0dRPU9HTT1PRFk9T0dVPU9Uaz1PRGc9T0dFPU9UZz1PR1U9T1dVPU9HRT1ZVEE9T1RJPU9XWT1PVEE9WVRNPU9UST0=
-Presidente Bernardes,https://presidentebernardes.sp.gov.br/publicacoes/1
+Presidente Bernardes,https://www.presidentebernardes.sp.gov.br/portal/editais/1
 Presidente Epitacio,https://www.presidenteepitacio.sp.gov.br/portal/editais/1
 Presidente Prudente,https://www.presidenteprudente.sp.gov.br/transparencia/1/contaspublicas/licitacoes/abertas
 Presidente Venceslau,https://www.presidentevenceslau.sp.gov.br/publicacoes-oficiais/editais-licitacoes
